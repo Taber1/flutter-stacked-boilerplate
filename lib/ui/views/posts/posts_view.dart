@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:my_first_app/models/post_model.dart';
 import 'package:my_first_app/ui/common/app_colors.dart';
 import 'package:my_first_app/ui/common/ui_helpers.dart';
-import 'package:my_first_app/ui/widgets/custom_dialog_loader.dart';
 import 'package:stacked/stacked.dart';
 import 'posts_viewmodel.dart';
 
